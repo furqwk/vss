@@ -1,8 +1,8 @@
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 local Window = WindUI:CreateWindow({
-    Title = "flash nub",
+    Title = "MM2 SPAWNER",
     Icon = "door-open", -- lucide icon. optional
-    Author = "by skids", -- optional
+    Author = "by vibe coder", -- optional
 })
 local spawner = Window:Tab({
     Title = "Spawner",
